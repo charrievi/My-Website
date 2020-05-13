@@ -156,3 +156,12 @@ padding: 50px;
 	background:linear-gradient(to bottom, #ecdfc8 5%, #ecb390 100%);
 	background-color:#ecb390;
 }
+
+@media (max-width: 1098px) {
+
+.middle-container {
+  text-align: center;
+}
+
+}
+	
